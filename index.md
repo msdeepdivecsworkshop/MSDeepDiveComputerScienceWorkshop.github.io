@@ -9,9 +9,19 @@ In striving to attain this workshops goals, we will also be assigning coding que
 
 If time permits, would definetly recommend following the 10 week schedule - however, if you fnd yourself to be comftorable with a few of the topics and would like to proceed at a faster pace, its defeintly fine for you to speed on through !
 
-
 ### Workshop Schedule
 
+| Week |          Topic          |            Soft Skill           |            Current Status                   |
+|:----:|:-----------------------:|:-------------------------------:|:-------------------------------------------:|
+| 1    | Kickoff                 | How To Work The Clock           |  -[x] In the works </br> -[] Available      |
+| 2    | Arrays and Strings      | Proactive Communication         |                |
+| 3    | Recursion               | Algorithm Design                |                |
+| 4    | Linked Lists            | Writing Code at the White Board |                |
+| 5    | Stacks and Queues       | Walking through your solution   |                |
+| 6    | Hash Tables             | Testing Your Code               |                |
+| 7    | Trees and Binary Search | Time Complexity                 |                |
+| 8    | Graphs                  | Imposter Syndrome               |                |
+| 9    | Heaps                   | Lets Go !                       |                |
 
 You can use the [editor on GitHub](https://github.com/msdeepdivecsworkshop/Microsoft-Deep-Dive-CS-Workshop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
