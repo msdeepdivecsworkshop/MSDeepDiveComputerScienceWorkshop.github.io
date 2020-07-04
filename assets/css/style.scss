@@ -29,6 +29,10 @@ a#current-week-text {
 }
 #special-event {
   display:none;
+  background: #6e4b88;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  border-radius: 3px;
+  text-align: center;
 }
 a#special-event-text {
 }
