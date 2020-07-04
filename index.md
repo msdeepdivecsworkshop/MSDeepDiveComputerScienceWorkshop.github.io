@@ -1,6 +1,6 @@
-## HI AND WELCOME TO MICROSOFTS DEEP DIVE COMPUTER SCIENCE WORKSHOP !
+## HI AND WELCOME !
 
-Many students, especially those from low-income and underprivileged communities, are unaware of the technical and soft skills that are expected in tech sector jobs and the technical interview process. In this workshop we aim to help with these topics and cement the data structures and computer science concepts that come up during technical interviews through weekly workshop meetings. These meetings will be in the form of videos (live or recorded) that go over computer science topics such as arrays, linked lists, and recursion, and soft skills such as working the clock, proactive communication and developing a solution. 
+Many students, especially those from low-income and underprivileged communities, are unaware of the technical and soft skills that are expected in tech sector jobs and the technical interview process. In this workshop we aim to help with these topics and cement the data structures and computer science concepts that come up during technical interviews through weekly workshop meetings. These meetings will be in the form of videos (live or recorded) that go over computer science topics such as __arrays__, __linked lists__, and __recursion__, and soft skills such as __working the clock__, __proactive communication__ and __developing a solution__. 
 
 In striving to attain this workshops goals, we will also be assigning coding questions that cover the technical topic explored each week and that are typically asked in a atechnical interview
 
