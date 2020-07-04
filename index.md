@@ -27,13 +27,12 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 | 9    | Heaps                   | Lets Go !                       |  &#9745; In the works                       |
 
 ---
+<a id="general-orange-button">Slides</a>
+<a id="general-green-button">Transcripts</a>
+
 
 <h3 id="workshop-week-title">Week 1</h3>
 
 ## Kickoff and How to Work The Clock
-<div id="workshop-week-buttons">
 <a id="return-button" href="#workshop-schedule">Return to Workshop Schedule</a>
-<a id="general-orange-button">Slides</a>
-<a id="general-green-button">Transcripts</a>
-</div>
 
