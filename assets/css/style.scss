@@ -16,6 +16,14 @@ h1.project-name {
 #current-week {
   display:none;
 }
+a#current-week-text {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: x-large;
+  background: linear-gradient(to right, #b9ffff 25%, #97adff 40% , #ffffff 78%);
+  -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
 #special-event {
   display:none;
 }
