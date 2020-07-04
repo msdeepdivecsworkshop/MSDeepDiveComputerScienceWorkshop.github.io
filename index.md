@@ -27,9 +27,10 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 | 9    | Heaps                   | Lets Go !                       |  &#9745; In the works                       |
 
 ---
+<div id = "workshop-buttons">
 <a id="general-orange-button">Slides</a>
 <a id="general-green-button">Transcripts</a>
-
+</div>
 
 <h3 id="workshop-week-title">Week 1</h3>
 
