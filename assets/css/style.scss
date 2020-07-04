@@ -14,7 +14,7 @@ h1.project-name {
   background-size: 20%;
 }
 #current-week {
-  display:none;
+  display:none; /* remove if wanting to appear on ui*/
   border-style: double;
   text-align: center;
   background: black;
@@ -28,14 +28,18 @@ a#current-week-text {
   -webkit-text-fill-color: transparent;
 }
 #special-event {
-  display:none;
+  display:none; /* change to block when wanting to appear on ui*/
+  padding-top: 2px;
+  padding-bottom: 2px;
   background: #6e4b88;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   border-radius: 3px;
   text-align: center;
+  color: white;
+  font-weight: :bold;
+  font-size: larger;
 }
-a#special-event-text {
-}
+
 #next-special-event {
   display:none;
 }
