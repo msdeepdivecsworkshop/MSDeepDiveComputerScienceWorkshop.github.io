@@ -33,7 +33,7 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 ## Kickoff and How to Work The Clock
 <div id="workshop-week-buttons">
 <a id="return-button" href="#workshop-schedule">Return to Workshop Schedule</a>
-<a id="ppt-button">Slides</a>
-<a id="ppt-button">Transcripts</a>
+<a id="general-orange-button">Slides</a>
+<a id="general-green-button">Transcripts</a>
 </div>
 
