@@ -22,11 +22,15 @@ a#current-week-text {
   font-size: x-large;
   background: linear-gradient(to right, #b9ffff 25%, #97adff 40% , #ffffff 78%);
   -webkit-background-clip: text;
-   -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
 }
 #special-event {
   display:none;
 }
+a#special-event-text {
+}
 #next-special-event {
   display:none;
+}
+a#next-special-event-text {
 }
