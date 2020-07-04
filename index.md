@@ -31,6 +31,9 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 <h3 id="workshop-week-title">Week 1</h3>
 
 ## Kickoff and How to Work The Clock
-
+<div id="workshop-week-buttons">
 <a id="return-button" href="#workshop-schedule">Return to Workshop Schedule</a>
+<a id="ppt-button">Week 1 Slides</a>
+<a id="ppt-button">Week 1 Transcripts</a>
+</div>
 
