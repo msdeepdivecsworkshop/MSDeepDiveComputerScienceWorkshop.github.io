@@ -1,4 +1,4 @@
-## HI AND WELCOME !
+## Hi and Welcome !
 
 Many students, especially those from low-income and underprivileged communities, are unaware of the technical and soft skills that are expected in tech sector jobs and the technical interview process. In this workshop we aim to help with these topics and cement the data structures and computer science concepts that come up during technical interviews through weekly workshop meetings. These meetings will be in the form of videos (live or recorded) that go over computer science topics such as __arrays__, __linked lists__, and __recursion__, and soft skills such as __working the clock__, __proactive communication__ and __developing a solution__. 
 
@@ -11,8 +11,7 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 
 ### Workshop Schedule
 <h3 id="current-week"><a id="current-week-text">Header Title</a></h3>
-<h3 id="special-event">Live Event: Workshop KickOff 7/20 </h3>
-<h3 id="next-special-event">Next Live Event: Proactive Communication 7/31</h3>
+<h3 id="special-event"><a id="special-event-text">Live Event: Workshop KickOff ! 7/16 @3pm PST</a></h3>
 
 | Week |          Topic          |            Soft Skill           |            Current Status                   |
 |:----:|:-----------------------:|:-------------------------------:|:-------------------------------------------:|
