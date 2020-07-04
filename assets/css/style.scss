@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 h1.project-name {
   background: linear-gradient(to right, #40caca 25%, #be8633 40% , #2583f7 78%);
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .page-header {
