@@ -13,7 +13,7 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 
 | Week |          Topic          |            Soft Skill           |            Current Status                   |
 |:----:|:-----------------------:|:-------------------------------:|:-------------------------------------------:|
-| 1    | Kickoff                 | How To Work The Clock           |  - [ ] In the works </br> - [ ] Available      |
+| 1    | Kickoff                 | How To Work The Clock           |  &#9745 In the works </br>  Available      |
 | 2    | Arrays and Strings      | Proactive Communication         |                |
 | 3    | Recursion               | Algorithm Design                |                |
 | 4    | Linked Lists            | Writing Code at the White Board |                |
