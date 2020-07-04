@@ -11,7 +11,7 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 
 ### Workshop Schedule
 <h3 id="current-week"><a id="current-week-text">Header Title</a></h3>
-<a id="special-event">Live Event: Workshop KickOff ! 7/16 @3pm PST</a>
+<h3 id="special-event">[Live Event: Workshop KickOff ! 7/16 @3pm PST](https://github.com/msdeepdivecsworkshop/Microsoft-Deep-Dive-CS-Workshop/edit/master/index.md)</h3>
 
 | Week |          Topic          |            Soft Skill           |            Current Status                   |
 |:----:|:-----------------------:|:-------------------------------:|:-------------------------------------------:|
