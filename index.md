@@ -13,15 +13,15 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 
 | Week |          Topic          |            Soft Skill           |            Current Status                   |
 |:----:|:-----------------------:|:-------------------------------:|:-------------------------------------------:|
-| 1    | Kickoff                 | How To Work The Clock           |  &#9745; In the works </br>  Available      |
-| 2    | Arrays and Strings      | Proactive Communication         |                |
-| 3    | Recursion               | Algorithm Design                |                |
-| 4    | Linked Lists            | Writing Code at the White Board |                |
-| 5    | Stacks and Queues       | Walking through your solution   |                |
-| 6    | Hash Tables             | Testing Your Code               |                |
-| 7    | Trees and Binary Search | Time Complexity                 |                |
-| 8    | Graphs                  | Imposter Syndrome               |                |
-| 9    | Heaps                   | Lets Go !                       |                |
+| 1    | Kickoff                 | How To Work The Clock           |  &#9745; In the works                       |
+| 2    | Arrays and Strings      | Proactive Communication         |  &#9745; In the works                       |
+| 3    | Recursion               | Algorithm Design                |  &#9745; In the works                       |
+| 4    | Linked Lists            | Writing Code at the White Board |  &#9745; In the works                       |
+| 5    | Stacks and Queues       | Walking through your solution   |  &#9745; In the works                       |
+| 6    | Hash Tables             | Testing Your Code               |  &#9745; In the works                       |
+| 7    | Trees and Binary Search | Time Complexity                 |  &#9745; In the works                       |
+| 8    | Graphs                  | Imposter Syndrome               |  &#9745; In the works                       |
+| 9    | Heaps                   | Lets Go !                       |  &#9745; In the works                       |
 
 You can use the [editor on GitHub](https://github.com/msdeepdivecsworkshop/Microsoft-Deep-Dive-CS-Workshop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
