@@ -26,9 +26,3 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 | 8    | Graphs                  | Imposter Syndrome               |  &#9745; In the works                       |
 | 9    | Heaps                   | Lets Go !                       |  &#9745; In the works                       |
 
-<div class="sidenav">
-  <a href="#about">About</a>
-  <a href="#services">Services</a>
-  <a href="#clients">Clients</a>
-  <a href="#contact">Contact</a>
-</div>
