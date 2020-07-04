@@ -28,8 +28,8 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 
 ---
 <div id = "workshop-buttons">
-<a id="general-red-button">Slides</a>
-<a id="general-gray-button">Transcripts</a>
+<a id="general-red-button" href="https://github.com/msdeepdivecsworkshop/Microsoft-Deep-Dive-CS-Workshop/tree/master/Slides">Slides</a>
+<a id="general-gray-button" href="https://github.com/msdeepdivecsworkshop/Microsoft-Deep-Dive-CS-Workshop/tree/master/Transcripts">Transcripts</a>
 </div>
 
 <h3 id="workshop-week-title">Week 1</h3>
