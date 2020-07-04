@@ -11,7 +11,7 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 
 ### Workshop Schedule
 <h3 id="current-week"><a id="current-week-text">Header Title</a></h3>
-<a id="special-event" href="#Workshop Schedule">Live Event: Workshop KickOff ! 7/16 @3pm PST</a>
+<a id="special-event" href="#Workshop Schedule">Live Event: Workshop KickOff ! 7/TBA-DAY @TBA-TIMEpm PST</a>
 
 
 | Week |          Topic          |            Soft Skill           |            Current Status                   |
