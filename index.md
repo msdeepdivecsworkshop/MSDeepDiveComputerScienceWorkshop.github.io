@@ -28,8 +28,8 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 
 ---
 <div id = "workshop-buttons">
-<a id="general-orange-button">Slides</a>
-<a id="general-green-button">Transcripts</a>
+<a id="general-reday-button">Slides</a>
+<a id="general-gr-button">Transcripts</a>
 </div>
 
 <h3 id="workshop-week-title">Week 1</h3>
