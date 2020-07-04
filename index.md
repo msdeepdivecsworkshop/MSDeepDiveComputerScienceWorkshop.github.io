@@ -1,5 +1,17 @@
-# HEADERRRR !!
-## Welcome to GitHub Pages
+## HI AND WELCOME TO MICROSOFTS DEEP DIVE COMPUTER SCIENCE WORKSHOP !
+
+Many students, especially those from low-income and underprivileged communities, are unaware of the technical and soft skills that are expected in tech sector jobs and the technical interview process. In this workshop we aim to help with these topics and cement the data structures and computer science concepts that come up during technical interviews through weekly workshop meetings. These meetings will be in the form of videos (live or recorded) that go over computer science topics such as arrays, linked lists, and recursion, and soft skills such as working the clock, proactive communication and developing a solution. 
+
+In striving to attain this workshops goals, we will also be assigning coding questions that cover the technical topic explored each week and that are typically asked in a atechnical interview
+
+
+### Workshop Pace 
+
+If time permits, would definetly recommend following the 10 week schedule - however, if you fnd yourself to be comftorable with a few of the topics and would like to proceed at a faster pace, its defeintly fine for you to speed on through !
+
+
+### Workshop Schedule
+
 
 You can use the [editor on GitHub](https://github.com/msdeepdivecsworkshop/Microsoft-Deep-Dive-CS-Workshop/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
