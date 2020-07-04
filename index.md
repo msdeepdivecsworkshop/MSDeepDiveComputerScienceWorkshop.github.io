@@ -26,7 +26,11 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 | 8    | Graphs                  | Imposter Syndrome               |  &#9745; In the works                       |
 | 9    | Heaps                   | Lets Go !                       |  &#9745; In the works                       |
 
+---
+
 <h3 id="workshop-week-title">Week 1</h3>
-<a id="return-button" href="#workshop-schedule">Return to Workshop Schedule</a>
 
 #### Kickoff and How to Work The Clock
+
+<a id="return-button" href="#workshop-schedule">Return to Workshop Schedule</a>
+
