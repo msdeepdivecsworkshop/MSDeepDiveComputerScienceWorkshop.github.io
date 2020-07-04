@@ -28,7 +28,7 @@ a#current-week-text {
   -webkit-text-fill-color: transparent;
 }
 #special-event {
-  display:none; /* change to block when wanting to appear on ui*/
+  display:block; /* change to block when wanting to appear on ui*/
   padding-top: 2px;
   padding-bottom: 2px;
   background: #6e4b88;
