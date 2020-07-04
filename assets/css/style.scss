@@ -44,14 +44,8 @@ a#current-week-text {
 }
 a#next-special-event-text {
 }
-.sidenav {
-  height: 100%;
-  width: 160px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  padding-top: 20px;
+#workshop-week-title {
+    background: #131313;
+    color: white;
+    border-radius: 8px;
 }
