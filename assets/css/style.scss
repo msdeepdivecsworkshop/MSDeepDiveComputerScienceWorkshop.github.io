@@ -78,7 +78,8 @@ a#next-special-event-text {
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
-  cursor: pointer;
+  cursor: pointer;  
+  transition-duration: 0.4s;
 }
 #general-red-button {
   background-color: #cc2323;
@@ -92,4 +93,11 @@ a#next-special-event-text {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+
+#general-red-button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
 }
