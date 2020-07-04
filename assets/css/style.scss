@@ -15,6 +15,9 @@ h1.project-name {
 }
 #current-week {
   display:none;
+  border-style: double;
+  text-align: center;
+  background: black;
 }
 a#current-week-text {
   text-decoration: none;
