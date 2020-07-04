@@ -35,10 +35,12 @@ If time permits, would definetly recommend following the 10 week schedule - howe
 <h3 id="workshop-week-title">Week 1</h3>
 
 ## Kickoff and How to Work The Clock
+# Assigned Coding Problems
 <a id="return-button" href="#workshop-schedule">Return to Workshop Schedule</a>
 
 <h3 id="workshop-week-title">Week 2</h3>
 
 ## Arrays and Strings
 ## Proactive Communication
+# Assigned Coding Problems
 <a id="return-button" href="#workshop-schedule">Return to Workshop Schedule</a>
