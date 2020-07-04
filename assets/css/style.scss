@@ -19,7 +19,7 @@ h1.project-name {
   text-align: center;
   background: black;
 }
-a#current-week-text {
+#current-week-text {
   text-decoration: none;
   font-weight: bold;
   font-size: x-large;
@@ -45,7 +45,8 @@ a#current-week-text {
 a#next-special-event-text {
 }
 #workshop-week-title {
-    background: #131313;
-    color: white;
-    border-radius: 8px;
+  background: #131313;    
+  text-align: center;
+  color: white;
+  border-radius: 8px;
 }
