@@ -10,7 +10,7 @@ In striving to attain this workshops goals, we will also be assigning coding que
 If time permits, would definetly recommend following the 10 week schedule - however, if you fnd yourself to be comftorable with a few of the topics and would like to proceed at a faster pace, its defeintly fine for you to speed on through !
 
 ### Workshop Schedule
-<h3 id="current-week">Current Week: Week 0</h3>
+<h3 id="current-week"><a id="current-week-text">Header Title</a></h3>
 <h3 id="special-event">Live Event: Workshop KickOff 7/20 </h3>
 <h3 id="next-special-event">Next Live Event: Proactive Communication 7/31</h3>
 
